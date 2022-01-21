@@ -1,6 +1,6 @@
 ## First App
 
-I make a Las Vegas dice app. You can make the die roll at the press of button or by shaking your phone. 
+I made a Las Vegas dice app. You can make the die roll at the press of button or by shaking your phone. 
 
 ## What I learned
 

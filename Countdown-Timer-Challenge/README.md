@@ -4,6 +4,7 @@ It’s time to flex your problem-solving muscles again. You’ll need to use the
 1. Figure out how to create a 60s countdown timer that prints out the seconds remaining every second.
 
 If successful, you should see something like this in your debug console:
+
 <img width="502" alt="Screenshot 2022-01-27 at 12 13 03" src="https://user-images.githubusercontent.com/36795459/151328190-234f1b7c-a730-436b-b969-8c1e49e081e9.png">
 
 Hint 1: Try Googling these search terms: countdown timer Swift stack overflow and clicking on the first link.

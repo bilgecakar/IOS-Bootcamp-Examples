@@ -3,7 +3,7 @@
 This app has any functionality, it is just an example of auto layout.
 
 
-Below is the screenshot:
+Below is the screenshot on different devices:
 
 
 <p float="left">

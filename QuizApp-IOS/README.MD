@@ -1,7 +1,7 @@
 ## Our Goal
 The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
 
-## What I learnt
+## What I learned
 - [x] How to programmatically change UI elements such as Labels and Buttons.
 - [x] What is a design pattern and how is it used in programming.
 - [x] How to use the Model-View-Controller or MVC pattern for app development.
